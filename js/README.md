@@ -44,4 +44,14 @@ This is a [link](www.google.com)
 
 ---
 
-1. 
+1. primitive type
+    * Boolean
+    * Number
+    * String
+    * Null
+    * Undefined
+dynamic type language <--> static type language
+
+2. https://dorey.github.io/JavaScript-Equality-Table/
+
+3. NaN is a number. And `NaN == NaN` is equal false. `isNaN(NaN)` is equal true
