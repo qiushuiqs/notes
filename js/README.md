@@ -55,3 +55,11 @@ dynamic type language <--> static type language
 2. https://dorey.github.io/JavaScript-Equality-Table/
 
 3. NaN is a number. And `NaN == NaN` is equal false. `isNaN(NaN)` is equal true
+NaN equal to ANYTHING is always false, even when compared to itself
+
+4. Two scope: either function scope or global scope.
+    * There is no __braket scope__ like for loop braket and if-else braket.
+    * lexical scope chain
+
+5. Variable hoisting
+variable/function declaretion then expression
